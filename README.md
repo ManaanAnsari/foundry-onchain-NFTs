@@ -1,7 +1,18 @@
 ## Foundry
 
-NFT ERC721 using openzeplin
-onchain nft using svg and base64 encoding
+## todos
+
+- [x] NFT ERC721 using openzeplin
+- [x] onchain nft using svg and base64 encoding
+- [x] deploy on testnet
+
+## Tests
+
+- [x] deploy scripts
+- [x] Tests
+  - [x] work on local
+  - [x] forked testnet
+  - [x] forked mainnet
 
 happy svg base64
 
