@@ -14,6 +14,26 @@
   - [x] forked testnet
   - [x] forked mainnet
 
+sepolia
+basic : 0x4242Be1Fa81ABFa2436819614543526e39FDa78F
+mood nft (dynamic) : 0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B
+
+mint
+
+```
+cast send 0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B "mintNft()" --rpc-url $SEPOLIA_RPC_URL --private-key $SEPOLIA_PRIVATE_KEY
+```
+
+flip mood cast
+
+```
+cast send 0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B "flipMood(uint256)" 0 --rpc-url $SEPOLIA_RPC_URL --private-key $SEPOLIA_PRIVATE_KEY
+```
+
+![metamask ss](meta_ss.png)
+
+todo: fix foundry verification issue
+
 happy svg base64
 
 ```
