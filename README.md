@@ -16,9 +16,9 @@
 
 ## Deployed on Sepolia
 
-**Basic** : 0x4242Be1Fa81ABFa2436819614543526e39FDa78F
+**Basic** : [0x4242Be1Fa81ABFa2436819614543526e39FDa78F](https://sepolia.etherscan.io/address/0x4242Be1Fa81ABFa2436819614543526e39FDa78F#code)
 
-**Mood nft (dynamic)** : 0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B
+**Mood nft (dynamic)** : [0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B](https://sepolia.etherscan.io/address/0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B#code)
 
 ## Usage
 
@@ -35,8 +35,6 @@ cast send 0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B "flipMood(uint256)" 0 --rpc
 ```
 
 ![metamask ss](meta_ss.png)
-
-todo: fix foundry verification issue
 
 happy svg base64
 
