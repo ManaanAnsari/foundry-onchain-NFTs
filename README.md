@@ -14,9 +14,13 @@
   - [x] forked testnet
   - [x] forked mainnet
 
-sepolia
-basic : 0x4242Be1Fa81ABFa2436819614543526e39FDa78F
-mood nft (dynamic) : 0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B
+## Deployed on Sepolia
+
+**Basic** : 0x4242Be1Fa81ABFa2436819614543526e39FDa78F
+
+**Mood nft (dynamic)** : 0xE81AF7F2cD1688c2691AD763dc417BA9D9e2C88B
+
+## Usage
 
 mint
 
